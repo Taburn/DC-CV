@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DC CV Faceplate.PcbDoc   2021-10-02  6:03:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DC CV Faceplate-RoundHoles.TXT
+ASCII SlotHoles File : DC CV Faceplate-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      2.1mm (83mil)                                             Round             4         PTH        72.00mm (2.83inch)
+T2      6.2mm (244mil)                                            Round             8         PTH        105.00mm (4.13inch)
+T3      6.35mm (250mil)                                           Round             2         PTH        10.00mm (0.39inch)
+T4      7.3mm (287mil)                                            Round             4         PTH        72.00mm (2.83inch)
+T5      3.2mm (126mil)                                            Slot              4         NPTH       420.40mm (16.55inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              22
+
+Total Processing Time (hh:mm:ss) : 00:00:00

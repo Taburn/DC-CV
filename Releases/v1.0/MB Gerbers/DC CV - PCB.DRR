@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DC CV - PCB.PcbDoc   2021-10-02  6:02:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DC CV - PCB-RoundHoles.TXT
+ASCII SlotHoles File : DC CV - PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             298       PTH        1327.81mm (52.28inch)
+T2      0.8mm (31mil)                                             Slot              24        PTH        333.72mm (13.14inch)
+T3      1mm (39mil)                                               Round             22        PTH        102.88mm (4.05inch)
+T4      1mm (39mil)                                               Slot              6         PTH        70.69mm (2.78inch)
+T5      2.2mm (87mil)                                             Round             8         PTH        91.00mm (3.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              358
+
+Total Processing Time (hh:mm:ss) : 00:00:00
